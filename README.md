@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm creating products for the people for more than 5 years as a System Business Analyst / Service Delivery Manager / Product Owner.
+I create products for the people for more than 5 years as a System Business Analyst / Service Delivery Manager / Product Owner.
 Participated in development of unique software for planning the supply of petroleum products to gas stations, automated data processing system for petrochemical industry, and automation platform for business processes like Account opening/ Bank guarantee/etc. for one of the biggest commercial Banks in the country.
 I lead a cross-functional distributed team of more than 20 people who are engaged in implementation from the scratch to launching, and I try to improve myself in order to provide better management and comfort to my team.
 I enjoy my work.
